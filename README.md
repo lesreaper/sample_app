@@ -5,6 +5,7 @@ This is the sample application for my One Month Rails training. I'm excited to l
 After this, and training some more on Rails with Noble Desktop, I'm looking forward to adding Ruby Motion to my repetoire and attending some training with their team in San Francisco. Between that, Rails, and my front end skills, I should be able to create an excellent working protype of my first web application here in 2014. 
 
 [*One Month Rails Link*](http://www.onemonthrails.com)
+
 [*Noble Desktop*](http://www.nobledesktop.com)
 
 Thanks From: [Richard Everts @ Wicked Phoenix](http://www.wickedphoenix.com/)
